@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+div.link a{
+	
+	text-decoration:none;
+	color:#FF0;
+	background-color:#F00;
+	
+		
+}
+.gs{
+	color:#C00
+	
+}
+.gs{
+	background-color:#FF0
+}
+
+.aslan{
+	color: #000;
+	background-color: #F00
+}
+div#aslan table tr td.td3{
+	background-color: #FFF;
+}
+div#aslan table tr td.td1{
+	background-color: #FF0
+}
+div#aslan table tr td.td3{
+	background-color: #FF0
+	
+}

@@ -1,0 +1,24 @@
+span.link a{
+	text-decoration:none;
+	color: blue;
+	background-color:yellow;
+}
+table{
+	color:maroon;
+}
+table.tablo{
+	color:red;
+}
+table.tablo tr{
+	background-color:gray;
+}
+table tr td{
+	border-top:0px solid black;
+	border-bottom:3px solid green;
+}
+
+
+
+Collapse 
+5:02 PM
+index.html 
